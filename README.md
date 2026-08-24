@@ -1,18 +1,53 @@
-# 💫 About Me:
-I am a student at Alva's Institute Of Engineering And Technology
+# 👋 Hey, I'm Ashik!
 
+### 🎓 Engineering Student | 💻 Programmer | 🚀 Tech Enthusiast
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashik_5530) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashikkulal7@gmail.com) 
+I am an engineering student at **Alva's Institute of Engineering and Technology**, passionate about programming, software development, and exploring new technologies.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ASHIK-k123&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ASHIK-k123&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHIK-k123&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I enjoy building projects, learning new concepts, and improving my problem-solving skills through hands-on development.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ASHIK-k123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+- 🎓 Engineering Student at **Alva's Institute of Engineering and Technology**
+- 💻 Interested in **Software Development & Programming**
+- 🌱 Currently learning and improving my **development skills**
+- 🧠 Interested in **Problem Solving & Algorithms**
+- 🚀 Always exploring new technologies and building projects
+- 📍 India
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,python" />
+</p>
+
+### 🗄️ Database & Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
+
+### 🌐 Web & Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```text
+🔹 Data Structures & Algorithms
+🔹 Java Development
+🔹 Python Development
+🔹 Web Development
+🔹 Database Management
+🔹 Git & GitHub
+🔹 Software Development
