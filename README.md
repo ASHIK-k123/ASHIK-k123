@@ -1,53 +1,41 @@
-# 👋 Hey, I'm Ashik!
+# 👋 Hey there! I'm Ashik 🚀
 
-### 🎓 Engineering Student | 💻 Programmer | 🚀 Tech Enthusiast
+### 💻 Engineering Student | 👨‍💻 Developer | 🌱 Lifelong Learner
 
-I am an engineering student at **Alva's Institute of Engineering and Technology**, passionate about programming, software development, and exploring new technologies.
-
-I enjoy building projects, learning new concepts, and improving my problem-solving skills through hands-on development.
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Engineering Student at **Alva's Institute of Engineering and Technology**
-- 💻 Interested in **Software Development & Programming**
-- 🌱 Currently learning and improving my **development skills**
-- 🧠 Interested in **Problem Solving & Algorithms**
-- 🚀 Always exploring new technologies and building projects
-- 📍 India
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python" />
-</p>
-
-### 🗄️ Database & Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
-</p>
-
-### 🌐 Web & Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;I'm+Ashik+%F0%9F%92%BB;Engineering+Student+%F0%9F%8E%93;I+Love+Coding+%E2%9D%A4%EF%B8%8F;Learning+%7C+Building+%7C+Growing+%F0%9F%9A%80" />
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 🌟 About Me
+
+Hey! I'm **Ashik**, an engineering student at  
+🎓 **Alva's Institute of Engineering and Technology**.
+
+I'm a curious learner who enjoys turning ideas into code and exploring how technology can solve real-world problems.
+
+💻 I love programming  
+🧠 I enjoy solving problems  
+🚀 I like building projects  
+🌱 I'm always learning something new  
+☕ And yes... I enjoy coding with a cup of coffee! 😄
+
+> **"Every expert was once a beginner." 🌱**
+
+---
+
+## 🧑‍💻 What I Do
 
 ```text
-🔹 Data Structures & Algorithms
-🔹 Java Development
-🔹 Python Development
-🔹 Web Development
-🔹 Database Management
-🔹 Git & GitHub
-🔹 Software Development
+💡 Learn new technologies
+        ↓
+🧠 Solve problems
+        ↓
+💻 Write code
+        ↓
+🚀 Build projects
+        ↓
+📚 Learn from mistakes
+        ↓
+✨ Improve every day
