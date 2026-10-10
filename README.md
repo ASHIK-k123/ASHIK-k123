@@ -1,6 +1,11 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:020617,50:1D4ED8,100:7C3AED&height=300&section=header&text=ASHIK.DEV&fontSize=80&fontColor=FFFFFF&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20ENGINEERING%20STUDENT&descSize=18&descAlignY=65" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:312E81&height=300&section=header&text=ASHIK.DEV&fontSize=80&fontColor=38BDF8&animation=twinkling&fontAlignY=38&desc=⚡%20SOFTWARE%20DEVELOPER%20⚡&descSize=20&descColor=FFFFFF&descAlignY=60" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1800&pause=400&color=38BDF8&center=true&vCenter=true&width=700&lines=⚡+ELECTRIFYING+IDEAS+WITH+CODE;BUILDING+THE+FUTURE;CODE.+CREATE.+INNOVATE.)](https://git.io/typing-svg)
+
+</div>
 
 <a href="https://github.com/ASHIK-k123">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&width=700&lines=POWERED+BY+CURIOSITY+%E2%9A%A1;BUILDING+THE+FUTURE+WITH+CODE;AI+%7C+WEB+DEVELOPMENT+%7C+INNOVATION;LEARN.+BUILD.+REPEAT." alt="Animated typing text" />
